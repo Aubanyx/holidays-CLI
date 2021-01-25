@@ -48,3 +48,14 @@ All Saints' Day - 2004-11-01
 Armistice Day - 2004-11-11
 Christmas Day - 2004-12-25
 ```
+
+## Source
+
+How to parse command line arguments :
+<https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/>
+
+Doc sur l'API date nager :
+<https://date.nager.at/Api>
+
+Doc sur Axios :
+<https://www.npmjs.com/package/axios>
