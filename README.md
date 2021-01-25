@@ -51,11 +51,14 @@ Christmas Day - 2004-12-25
 
 ## Source
 
+Doc sur le package Country-List :
+<https://www.npmjs.com/package/country-list>
+
 How to parse command line arguments :
 <https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/>
 
 Doc sur l'API date nager :
 <https://date.nager.at/Api>
 
-Doc sur Axios :
+Doc sur le package Axios :
 <https://www.npmjs.com/package/axios>
