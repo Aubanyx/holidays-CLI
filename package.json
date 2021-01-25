@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aubanyx/nodeJs-CLI.git"
+    "url": "git+https://github.com/Aubanyx/holidays-CLI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aubanyx/nodeJs-CLI/issues"
+    "url": "https://github.com/Aubanyx/holidays-CLI/issues"
   },
-  "homepage": "https://github.com/Aubanyx/nodeJs-CLI#readme",
+  "homepage": "https://github.com/Aubanyx/holidays-CLI#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
