@@ -51,8 +51,7 @@ Christmas Day - 2004-12-25
 
 ## Source
 
-Documentation on the package Country-List :
-<https://www.npmjs.com/package/country-list>
+
 
 How to parse command line arguments :
 <https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/>
@@ -60,14 +59,17 @@ How to parse command line arguments :
 Documentation on the API date nager :
 <https://date.nager.at/Api>
 
+Documentation on the package Country-List :
+<https://www.npmjs.com/package/country-list>
+
 Documentation on the package Axios :
 <https://www.npmjs.com/package/axios>
 
-Documentation on the package chalk :
+Documentation on the package Chalk :
 <https://www.npmjs.com/package/chalk>
 
-Documentation on the package figlet :
+Documentation on the package Figlet :
 <https://www.npmjs.com/package/figlet>
 
-Documentation on the package ora :
+Documentation on the package Ora :
 <https://www.npmjs.com/package/ora>
