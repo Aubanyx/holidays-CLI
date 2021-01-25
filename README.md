@@ -1,4 +1,4 @@
-# nodeJs-CLI
+# holidays-CLI
 
 ## Intro
 Holidates allows you to get the holidays' names and date of any country and at any given year.
