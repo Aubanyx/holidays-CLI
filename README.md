@@ -62,3 +62,6 @@ Documentation on the API date nager :
 
 Documentation on the package Axios :
 <https://www.npmjs.com/package/axios>
+
+Documentation on the package chalk :
+<https://www.npmjs.com/package/chalk>
