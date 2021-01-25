@@ -65,3 +65,9 @@ Documentation on the package Axios :
 
 Documentation on the package chalk :
 <https://www.npmjs.com/package/chalk>
+
+Documentation on the package figlet :
+<https://www.npmjs.com/package/figlet>
+
+Documentation on the package ora :
+<https://www.npmjs.com/package/ora>
