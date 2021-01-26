@@ -49,7 +49,7 @@ Armistice Day - 2004-11-11
 Christmas Day - 2004-12-25
 ```
 
-## Source
+## Sources
 
 How to parse command line arguments :
 <https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/>
